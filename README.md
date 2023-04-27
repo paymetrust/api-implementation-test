@@ -30,6 +30,7 @@ Nous évaluerons votre code en fonction des critères suivants:
 * Capacité à livrer un code fonctionnel et bien testé dans les délais impartis.
 
 ## Credentials
+* base_url : https://api.sandbox.paymetrust.net
 * api_key : c3ed018b-57fa-4d13-9c69-00d944982c3f
 * api_password : password
 
@@ -70,5 +71,6 @@ We will evaluate your code according to the following criteria:
 * Ability to deliver a functional and well-tested code within the given deadlines.
 
 ## Credentials
+* base_url : https://api.sandbox.paymetrust.net
 * api_key : c3ed018b-57fa-4d13-9c69-00d944982c3f
 * api_password : password
